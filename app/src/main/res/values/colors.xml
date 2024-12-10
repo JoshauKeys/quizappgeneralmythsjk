@@ -1,0 +1,4 @@
+<resources>
+    <color name="light_purple">#D1A6D3</color> <!-- Light purple color -->
+    <color name="button_green">#4CAF50</color> <!-- Custom green color for buttons -->
+</resources>

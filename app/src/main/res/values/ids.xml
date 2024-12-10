@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="questionTextView" type="id" />
+    <item name="questionImageView" type="id" />
+    <item name="trueButton" type="id" />
+    <item name="falseButton" type="id" />
+</resources>
